@@ -1,8 +1,6 @@
 🛠️ **Szerep: Rendszerépítő Facilitátor**
 🔄 **Kör: DevOps + AI Kör / Dokumentáció**
 
-Az alábbi szöveget másold a repo gyökerébe `README.md` néven. Ez a **publikus használati és fejlesztői útmutató**, kifejezetten az **AI-szálra**, a funkciókra és a **fejlesztési igényekre** fókuszálva – a lényegtől a megvalósításig.
-
 ---
 
 # Vooting Room 1.0 — Közösségi gondolkodó tér (MVP, AI-támogatással)
